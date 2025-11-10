@@ -13,7 +13,9 @@
 #ifndef LIBFT_H
 # define LIBFT_H
 
-/* INCLUDES */
+// ============================================================================
+// INCLUDES
+// ============================================================================
 
 # include <unistd.h>
 # include <stdio.h>
@@ -23,7 +25,9 @@
 # include <strings.h>
 # include <bsd/string.h>
 
-/* STRUCTURES */
+// ============================================================================
+// STRUCTURES
+// ============================================================================
 
 typedef struct s_trim
 {
@@ -53,8 +57,11 @@ typedef struct s_list
 	struct s_list	*next;
 }	t_list;
 
-/* MANDATORY PART: LIBC FUNCTIONS */
+// ============================================================================
+// PROTOTYPES
+// ============================================================================
 
+// MANDATORY PART 1: LIBC FUNCTIONS
 int		ft_isalpha(int c);
 int		ft_isdigit(int c);
 int		ft_isalnum(int c);
@@ -82,8 +89,7 @@ char	*ft_strrchr(const char *s, int c);
 char	*ft_strnstr(const char *big, const char *little, size_t len);
 char	*ft_strdup(const char *s);
 
-/* MANDATORY PART: FT FUNCTIONS */
-
+// MANDATORY PART 2: FT FUNCTIONS
 char	*ft_substr(char const *s, unsigned int start, size_t len);
 char	*ft_strjoin(char const *s1, char const *s2);
 char	*ft_strtrim(char const *s1, char const *set);
@@ -97,8 +103,7 @@ void	ft_putstr_fd(char *s, int fd);
 void	ft_putendl_fd(char *s, int fd);
 void	ft_putnbr_fd(int n, int fd);
 
-/* BONUS PART: LISTS */
-
+// BONUS PART: LISTS
 t_list	*ft_lstnew(void *content);
 t_list	*ft_lstlast(t_list *lst);
 t_list	*ft_lstmap(t_list *lst, void *(*f)(void *), void (*del)(void *));
