@@ -6,7 +6,7 @@
 #    By: spacotto <spacotto@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/10/14 09:34:48 by spacotto          #+#    #+#              #
-#    Updated: 2025/11/10 15:09:25 by spacotto         ###   ########.fr        #
+#    Updated: 2025/11/10 18:59:51 by spacotto         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -77,8 +77,8 @@ OBJS_DIR:= objs/
 OBJS_ISC	:= $(addprefix $(OBJS_DIR)checks/, $(SRC_ISC:.c=.o))
 OBJS_STR	:= $(addprefix $(OBJS_DIR)strs/, $(SRC_STR:.c=.o))
 OBJS_MEM	:= $(addprefix $(OBJS_DIR)mem/, $(SRC_MEM:.c=.o))
-OBJS_CNV	:= $(addprefix $(OBJS_DIR)convs/, $(SRC_CNV:.c=.o))
-OBJS_MLC	:= $(addprefix $(OBJS_DIR)alloc/, $(SRC_MLC:.c=.o))
+OBJS_CNV	:= $(addprefix $(OBJS_DIR)cnv/, $(SRC_CNV:.c=.o))
+OBJS_MLC	:= $(addprefix $(OBJS_DIR)mlc/, $(SRC_MLC:.c=.o))
 OBJS_FD		:= $(addprefix $(OBJS_DIR)fd/, $(SRC_FD:.c=.o))
 
 OBJS		:= $(OBJS_ISC) $(OBJS_STR) $(OBJS_MEM) $(OBJS_CNV) $(OBJS_MLC) $(OBJS_FD)
