@@ -10,3 +10,6 @@
 [submodule "Born2beroot"]
 	path = born2beroot
 	url = 
+[submodule "libft"]
+	path = libft
+	url = git@github.com:spacotto/libft.git
