@@ -1,9 +1,12 @@
 [submodule "libft"]
 	path = libft
 	url = git@github.com:spacotto/libft.git
+	branch = main
 [submodule "ft_printf"]
 	path = ft_printf
 	url = git@github.com:spacotto/ft_printf.git
+	branch = main
 [submodule "get_next_line"]
 	path = get_next_line
 	url = git@github.com:spacotto/get_next_line.git
+	branch = main
