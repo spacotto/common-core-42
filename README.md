@@ -7,7 +7,7 @@ My projects from the 42 Common Core
 **Description**
 >Create your own library: a collection of functions that will serve as a useful tool throughout your cursus.
 
-**Languages.** 
+**Languages** 
 - Makefile
 - C
 
@@ -17,7 +17,7 @@ My projects from the 42 Common Core
 **Description**
 >Write a library that contains `ft_printf()`, a function that will mimic the original `printf()`.
 
-**Languages.** 
+**Languages** 
 - Makefile
 - C
 
