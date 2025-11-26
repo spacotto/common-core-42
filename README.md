@@ -3,7 +3,7 @@ My projects from the 42 Common Core
 
 ## Circle 0
 
-### Libft 
+### Libft `diff + 125/100`
 **Description**
 >Create your own library: a collection of functions that will serve as a useful tool throughout your cursus.
 
@@ -27,11 +27,3 @@ My projects from the 42 Common Core
 
 **Languages**
 - C
-
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
