@@ -4,19 +4,26 @@ My projects from the 42 Common Core
 ## Circle 0
 
 ### Libft
-**Description.**
+**Description**
+>Create your own library: a collection of functions that will serve as a useful tool throughout your cursus.
 
-**Languages.** Makefile, C.
-
+**Languages.** 
+- Makefile
+- C
 
 ## Circle 1
 
 ### ft_printf
-**Description.**
+**Description**
+>Write a library that contains `ft_printf()`, a function that will mimic the original `printf()`.
 
-**Languages.** Makefile, C
+**Languages.** 
+- Makefile
+- C
 
 ### get_next_line
-**Description.**
+**Description**
+>Write a function that returns a line read from a file descriptor.
 
-**Languages.** C
+**Languages**
+- C
