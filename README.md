@@ -3,10 +3,8 @@ My projects from the 42 Common Core
 
 ## Circle 0
 
-### Libft 
-```diff 
-+ 125/100
-  ```
+### Libft <span style="color: green"> 125/100 </span>
+
 **Description**
 >Create your own library: a collection of functions that will serve as a useful tool throughout your cursus.
 
