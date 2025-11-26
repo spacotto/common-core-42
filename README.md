@@ -5,6 +5,7 @@ My projects from the 42 Common Core
 
 ### Libft
 **Description.**
+
 **Languages.** Makefile, C.
 
 
@@ -12,8 +13,10 @@ My projects from the 42 Common Core
 
 ### ft_printf
 **Description.**
+
 **Languages.** Makefile, C
 
 ### get_next_line
 **Description.**
+
 **Languages.** C
