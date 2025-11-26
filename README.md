@@ -3,7 +3,7 @@ My projects from the 42 Common Core
 
 ## Circle 0
 
-### Libft <span style="color: #FF0000"> 125/100 </span>
+### Libft [125/100]
 
 **Description**
 >Create your own library: a collection of functions that will serve as a useful tool throughout your cursus.
@@ -14,7 +14,7 @@ My projects from the 42 Common Core
 
 ## Circle 1
 
-### ft_printf
+### ft_printf [100/100]
 **Description**
 >Write a library that contains `ft_printf()`, a function that will mimic the original `printf()`.
 
@@ -22,7 +22,7 @@ My projects from the 42 Common Core
 - Makefile
 - C
 
-### get_next_line
+### get_next_line [125/100]
 **Description**
 >Write a function that returns a line read from a file descriptor.
 
