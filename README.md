@@ -46,4 +46,4 @@ My projects from the 42 Common Core
 >Rigor, Network & system administration
 
 **Languages**
-- C
+- Shell
