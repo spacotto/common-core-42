@@ -37,11 +37,11 @@ Languages       C
 ```
 Description     Create a function reading content line by line
 ________________________________________________________________________________
-Objective       Learn about sorting algorithms, battery concept and handling elements, and algorithm implementation
+Objective       Learn about sorting algorithms implementation
 ________________________________________________________________________________
 Skills          Imperative programming, Rigor, Unix, Algorithms & AI
 ________________________________________________________________________________
-Languages       C
+Languages       Makefile, C
 ```
 
 ## 🎯Circle 2
@@ -49,9 +49,9 @@ Languages       C
 ```
 Description     Create and implement features in a server created in a VM
 ________________________________________________________________________________
-Objective       -
+Objective       Learn about virtualisation and system administration
 ________________________________________________________________________________
-Skills          Rigor, Network & system administration
+Skills          Rigor, Network & System Administration
 ________________________________________________________________________________
 Languages       Bash, PHP
 ```
