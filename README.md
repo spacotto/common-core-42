@@ -43,4 +43,5 @@
 >Rigor, Network & system administration
 
 **Languages**
-- Bash, PHP
+- Bash
+- PHP
