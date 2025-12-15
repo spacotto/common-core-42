@@ -26,7 +26,7 @@ Languages       Makefile, C
 ```
 Description     Create a function reading content line by line
 ________________________________________________________________________________
-Objective       -
+Objective       Learn about buffers and static variables
 ________________________________________________________________________________
 Skills          Rigor, Unix, Algorithms & AI
 ________________________________________________________________________________
