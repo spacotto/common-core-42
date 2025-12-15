@@ -1,10 +1,10 @@
 ## 🎯Circle 0
 ### Libft [125/100]
 ```
-Description     The very first project as a student at 42. Recode a set of functions from the C standard library, as well as some other utility functions needed throughout your whole curriculum.
-__________________________________________________________________________________________________________________________________________________________________________________________________
+Objective       Create a C standard library.
+________________________________________________________________
 Skills          Rigor, Imperative programming, Algorithms & AI.
-__________________________________________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________
 Languages       Makefile, C.
 ```
 
