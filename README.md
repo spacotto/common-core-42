@@ -1,17 +1,21 @@
 ## 🎯Circle 0
 ### Libft [125/100]
 ```
-Objective       Create a C standard library
+Description     Create a C standard library
+________________________________________________________________________________
+Objective       Learn about and consolidate the basics of C
 ________________________________________________________________________________
 Skills          Rigor, Imperative programming, Algorithms & AI
 ________________________________________________________________________________
-Languages       Makefile, C.
+Languages       Makefile, C
 ```
 
 ## 🎯Circle 1
 ### ft_printf [100/100]
 ```
-Objective       Recreate the C function printf
+Description     Recreate the C function printf
+________________________________________________________________________________
+Objective       Learn about variadic functions in C
 ________________________________________________________________________________
 Skills          Rigor, Algorithms & AI
 ________________________________________________________________________________
