@@ -24,9 +24,22 @@ Languages       Makefile, C
 
 ### get_next_line [125/100]
 ```
-Objective       Create a function reading content line by line
+Description     Create a function reading content line by line
+________________________________________________________________________________
+Objective       -
 ________________________________________________________________________________
 Skills          Rigor, Unix, Algorithms & AI
+________________________________________________________________________________
+Languages       C
+```
+
+### push_swap [???/100]
+```
+Description     Create a function reading content line by line
+________________________________________________________________________________
+Objective       Learn about sorting algorithms, battery concept and handling elements, and algorithm implementation
+________________________________________________________________________________
+Skills          Imperative programming, Rigor, Unix, Algorithms & AI
 ________________________________________________________________________________
 Languages       C
 ```
@@ -34,7 +47,9 @@ Languages       C
 ## 🎯Circle 2
 ### Born2beRoot [125/100]
 ```
-Objective       Create and implement features in a server created in a VM
+Description     Create and implement features in a server created in a VM
+________________________________________________________________________________
+Objective       -
 ________________________________________________________________________________
 Skills          Rigor, Network & system administration
 ________________________________________________________________________________
