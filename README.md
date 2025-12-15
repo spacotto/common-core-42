@@ -1,8 +1,12 @@
 ## 🎯Circle 0
 ### Libft [125/100]
-- **Description.** The very first project as a student at 42. Recode a set of functions from the C standard library, as well as some other utility functions needed throughout your whole curriculum.
-- **Skills.** Rigor, Imperative programming, Algorithms & AI.
-- **Languages** Makefile, C.
+```
+Description     The very first project as a student at 42. Recode a set of functions from the C standard library, as well as some other utility functions needed throughout your whole curriculum.
+__________________________________________________________________________________________________________________________________________________________________________________________________
+Skills          Rigor, Imperative programming, Algorithms & AI.
+__________________________________________________________________________________________________________________________________________________________________________________________________
+Languages       Makefile, C.
+```
 
 ## 🎯Circle 1
 ### ft_printf [100/100]
