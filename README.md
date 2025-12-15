@@ -1,44 +1,38 @@
 ## 🎯Circle 0
 ### Libft [125/100]
 ```
-Objective       Create a C standard library.
-________________________________________________________________
-Skills          Rigor, Imperative programming, Algorithms & AI.
-________________________________________________________________
+Objective       Create a C standard library
+________________________________________________________________________________
+Skills          Rigor, Imperative programming, Algorithms & AI
+________________________________________________________________________________
 Languages       Makefile, C.
 ```
 
 ## 🎯Circle 1
 ### ft_printf [100/100]
-**Description**
->Recode the C function printf. Learn what is and how to implement variadic functions.
-
-**Skills**
->Rigor, Algorithms & AI
-
-**Languages** 
-- Makefile
-- C
+```
+Objective       Recreate the C function printf
+________________________________________________________________________________
+Skills          Rigor, Algorithms & AI
+________________________________________________________________________________
+Languages       Makefile, C
+```
 
 ## get_next_line [125/100]
-**Description**
->Whether it's a file, stdin, or even later a network connection, learn how to read content line by line.
+```
+Objective       Create a function reading content line by line
+________________________________________________________________________________
+Skills          Rigor, Unix, Algorithms & AI
+________________________________________________________________________________
+Languages       C
+```
 
-**Skills**
->Rigor, Unix, Algorithms & AI
-
-**Languages**
-- C
-
-# 🎯Circle 2
-
-## Born2beRoot [125/100]
-**Description**
->Introduction to virtualisation.
-
-**Skills**
->Rigor, Network & system administration
-
-**Languages**
-- Bash
-- PHP
+## 🎯Circle 2
+### Born2beRoot [125/100]
+```
+Objective       Create and implement features in a server created in a VM
+________________________________________________________________________________
+Skills          Rigor, Network & system administration
+________________________________________________________________________________
+Languages       Bash, PHP
+```
