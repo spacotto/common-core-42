@@ -35,7 +35,7 @@
 **Languages**
 - C
 
-## Born2beRoot [???/100]
+## Born2beRoot [125/100]
 **Description**
 >Introduction to virtualisation.
 
@@ -43,4 +43,4 @@
 >Rigor, Network & system administration
 
 **Languages**
-- Shell
+- Bash, PHP
