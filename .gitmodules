@@ -14,3 +14,6 @@
 	path = Born2beroot
 	url = https://github.com/spacotto/Born2beRoot.git
 	branch = main
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/spacotto/push_swap.git
