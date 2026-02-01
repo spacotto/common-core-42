@@ -58,24 +58,24 @@ Languages       Bash, PHP
 
 ### 🟡 Python Modules 0 - 10 [???/100]
 ```
-Description     -
+Description     Python Zero to Hero
 ________________________________________________________________________________
-Objective       -
+Objective       Start from the basics and reach advanced functional programming 
 ________________________________________________________________________________
-Skills          -
+Skills          Object-oriented programming, Imperative programming, Rigor 
 ________________________________________________________________________________
-Languages       -
+Languages       Python
 ```
 
 ### 🟡 A-Maze-ing [???/100]
 ```
-Description     -
+Description      Create a program generating mazes. 
 ________________________________________________________________________________
 Objective       -
 ________________________________________________________________________________
-Skills          -
+Skills          Algorithms & AI, Teamwork, Adaptation & creativity, Graphics 
 ________________________________________________________________________________
-Languages       -
+Languages       Python
 ```
 
 ## 🎯Circle 3
