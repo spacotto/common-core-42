@@ -17,3 +17,6 @@
 [submodule "push_swap"]
 	path = push_swap
 	url = https://github.com/spacotto/push_swap.git
+[submodule "Python-Modules"]
+	path = Python-Modules
+	url = git@github.com:spacotto/Python-Modules.git
