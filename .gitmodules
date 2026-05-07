@@ -20,3 +20,6 @@
 [submodule "Python-Modules"]
 	path = Python-Modules
 	url = git@github.com:spacotto/Python-Modules.git
+[submodule "A-Maze-ing"]
+	path = A-Maze-ing
+	url = git@github.com:spacotto/A-Maze-ing.git
