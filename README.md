@@ -13,7 +13,7 @@ Languages       Makefile, C
 
 ## 🎯Circle 1
 
-### 🔵 ft_printf [100/100]
+### 🔵 [ft_printf](https://github.com/spacotto/ft_printf) [100/100]
 ```
 Description     Recreate the C function printf
 ________________________________________________________________________________
@@ -24,7 +24,7 @@ ________________________________________________________________________________
 Languages       Makefile, C
 ```
 
-### 🔵 get_next_line [125/100]
+### 🔵 [get_next_line](https://github.com/spacotto/get_next_line) [125/100]
 ```
 Description     Create a function reading content line by line
 ________________________________________________________________________________
@@ -35,7 +35,7 @@ ________________________________________________________________________________
 Languages       C
 ```
 
-### 🔵 push_swap [125/100]
+### 🔵 [push_swap](https://github.com/spacotto/push_swap) [125/100]
 ```
 Description     Create a function reading content line by line
 ________________________________________________________________________________
