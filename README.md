@@ -59,22 +59,22 @@ ________________________________________________________________________________
 Languages       Bash, PHP
 ```
 
-### 🔵 Python Modules 0 - 10 [100/100]
+### 🔵 [Python Modules 0 - 10](https://github.com/spacotto/Python-Modules) [100/100]
 ```
 Description     Python Zero to Hero
 ________________________________________________________________________________
-Objective       Start from the basics and reach advanced functional programming 
+Objective       Learn the basics of Python
 ________________________________________________________________________________
 Skills          Object-oriented programming, Imperative programming, Rigor 
 ________________________________________________________________________________
 Languages       Python
 ```
 
-### 🔵 A-Maze-ing [125/100]
+### 🔵 [A-Maze-ing](https://github.com/spacotto/A-Maze-ing) [125/100]
 ```
-Description      Create a program generating mazes. 
+Description     Create a program generating mazes. 
 ________________________________________________________________________________
-Objective       -
+Objective       Learn about maze generation algorithms and maze visualisation.
 ________________________________________________________________________________
 Skills          Algorithms & AI, Teamwork, Adaptation & creativity, Graphics 
 ________________________________________________________________________________
@@ -83,29 +83,32 @@ Languages       Python
 
 ## 🎯Circle 3
 
-### 🟡 Call Me Maybe [???/100]
+### 🔵 [Fly-in](https://github.com/spacotto/Fly-in) [125/100]
 ```
-Description     -
+Description     Design and implement an efficient drone routing system that
+                navigates multiple autonomous drones from a central base to a
+                target location through a dynamic network.
 ________________________________________________________________________________
-Objective       -
+Objective       Learn about routing algorithms and map visualisation.
 ________________________________________________________________________________
-Skills          -
+Skills          Rigor, Algorithms & AI, Graphics
 ________________________________________________________________________________
-Languages       -
-```
-
-### 🟡 Fly-in [???/100]
-```
-Description     -
-________________________________________________________________________________
-Objective       -
-________________________________________________________________________________
-Skills          -
-________________________________________________________________________________
-Languages       -
+Languages       Python
 ```
 
 ### 🟡 Codexion [???/100]
+```
+Description     Create a simulation where coders race against burnout while
+                competing for scarce USB dongles.
+________________________________________________________________________________
+Objective       Learn about multithreading
+________________________________________________________________________________
+Skills          Concurrency, Scheduling, Unix, Algorithms & AI
+________________________________________________________________________________
+Languages       C
+```
+
+### 🟡 Call Me Maybe [???/100]
 ```
 Description     -
 ________________________________________________________________________________
