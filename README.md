@@ -96,7 +96,7 @@ ________________________________________________________________________________
 Languages       Python
 ```
 
-### 🟡 Codexion [???/100]
+### 🔵 [Codexion](https://github.com/spacotto/Codexion) [100/100]
 ```
 Description     Create a simulation where coders race against burnout while
                 competing for scarce USB dongles.
@@ -108,15 +108,19 @@ ________________________________________________________________________________
 Languages       C
 ```
 
-### 🟡 Call Me Maybe [???/100]
+### 🟡 [Call Me Maybe](https://github.com/spacotto/CallMeMaybe) [???/100]
 ```
-Description     -
+Description     Learn about function calling in Large Language Models (LLMs) by
+                building a system that translates natural language prompts into
+                structured function calls with typed arguments. Implement
+                constrained decoding to guarantee valid JSON output, achieving
+                near-perfect reliability with a small 0.6B parameter model.
 ________________________________________________________________________________
-Objective       -
+Objective       Learn about function calling in Large Language Models (LLMs)
 ________________________________________________________________________________
 Skills          -
 ________________________________________________________________________________
-Languages       -
+Languages       Python
 ```
 
 ## 🎯Circle 4
