@@ -108,7 +108,7 @@ ________________________________________________________________________________
 Languages       C
 ```
 
-### 🟡 [Call Me Maybe](https://github.com/spacotto/CallMeMaybe) [???/100]
+### 🔵 [Call Me Maybe](https://github.com/spacotto/CallMeMaybe) [125/100]
 ```
 Description     Learn about function calling in Large Language Models (LLMs) by
                 building a system that translates natural language prompts into
@@ -125,7 +125,7 @@ Languages       Python
 
 ## 🎯Circle 4
 
-### 🟣 NetPractice [???/100]
+### 🟡 NetPractice [???/100]
 ```
 Description     -
 ________________________________________________________________________________
@@ -136,7 +136,7 @@ ________________________________________________________________________________
 Languages       -
 ```
 
-### 🟣 Pac-Man [???/100]
+### 🟡 Pac-Man [???/100]
 ```
 Description     -
 ________________________________________________________________________________
@@ -147,7 +147,7 @@ ________________________________________________________________________________
 Languages       -
 ```
 
-### 🟣 RAG against the machine [???/100]
+### 🟡 RAG against the machine [???/100]
 ```
 Description     -
 ________________________________________________________________________________
