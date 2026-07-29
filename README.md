@@ -50,11 +50,11 @@ Learn about function calling in Large Language Models (LLMs) by building a syste
 
 ### 🔵 [NetPractice](https://github.com/spacotto/NetPractice) [100/100]
 
--
+This project consists of an interactive simulation designed to teach the **fundamentals of computer networking**. In the digital world, every time someone sends an email or loads a website, data travels through a complex maze of IP addresses, routers, and gateways. This project provided a hands-on environment to understand the basics of these underlying mechanics: across 10 levels of increasing difficulty, "broken" simulated network diagrams were presented; the objective was to successfully troubleshoot and configure the correct settings to restore communication between specific computers and the simulated internet.
 
 ### 🔵 [Pac-Man](https://github.com/spacotto/Pac-Man) [100/100]
 
--
+This project is a complete, playable recreation of the classic arcade game Pac-Man, built by our team for the 42 coding school curriculum. We programmed everything from scratch so that it looks and feels like a real game. It features colourful mazes that are automatically created, smart ghosts that chase the player on their own, a system to save your highest scores, and easy-to-use menus.
 
 ### 🟡 [RAG against the machine](https://github.com/spacotto/RAG-against-the-machine) [???/100]
 
