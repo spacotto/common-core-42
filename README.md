@@ -56,30 +56,30 @@ This project consists of an interactive simulation designed to teach the **funda
 
 This project is a complete, playable recreation of the classic arcade game Pac-Man, built by our team for the 42 coding school curriculum. We programmed everything from scratch so that it looks and feels like a real game. It features colourful mazes that are automatically created, smart ghosts that chase the player on their own, a system to save your highest scores, and easy-to-use menus.
 
-### 🟡 [RAG against the machine](https://github.com/spacotto/RAG-against-the-machine) [???/100]
+### 🔵 [RAG against the machine](https://github.com/spacotto/RAG-against-the-machine) [125/100]
 
--
+RAG against the machine is a software engineering project that builds a Retrieval-Augmented Generation (RAG) system from scratch to ensure an AI model answers questions factually based on a specific codebase. Because standard language models cannot learn new information without expensive retraining, this system acts as a smart search engine that first indexes a repository of files so they can be quickly searched. When a user asks a question, the system retrieves the most relevant text snippets and feeds them into a local Large Language Model (Qwen/Qwen3-0.6B) to generate a reliable, grounded response. By implementing custom text-chunking strategies, search algorithms (like TF-IDF or BM25), and precise system evaluations, the project demonstrates how to create an intelligent, "open-book" assistant that relies on verifiable data rather than inventing answers.
 
 ## 🎯Circle 5
 
-### 🟣 Inception [???/100]
+### 🟡 Inception [???/100]
 
 -
 
-### 🟣 The Answer Protocol [???/100]
+### 🟡 The Answer Protocol [???/100]
 
 -
 
-### 🟣 Agent Smith [???/100]
+### 🟡 Agent Smith [???/100]
 
 -
 
 ## 🎯Circle 6
 
-### 🟣 42_Collaborative_resume [???/100]
+### 🟡 42_Collaborative_resume [???/100]
 
 -
 
-### 🟣 ft_transcendence [???/100]
+### 🟡 ft_transcendence [???/100]
 
 -
