@@ -62,24 +62,30 @@ RAG against the machine is a software engineering project that builds a Retrieva
 
 ## 🎯Circle 5
 
-### 🟡 Inception [???/100]
+### 🟡 [Inception](https://github.com/spacotto/Inception) [???/100]
 
--
+Inception is a System Administration project that introduces you to Docker and containerization. The main goal is to set up a small web infrastructure using Docker Compose on a virtual machine(VM). Instead of installing all software directly on the machine, three separate containers are configured, each running a specific service: a web server (NGINX), a database (MariaDB), and a content management system (WordPress). This modular approach ensures that each service is isolated, making the system more secure, easier to manage, and scalable. By building the system from the ground up, the project teaches you how to create custom Docker images, configure secure networking between containers, and properly manage persistent data storage.
 
-### 🟡 The Answer Protocol [???/100]
+### 🔵 [The Answer Protocol](https://github.com/42-Projects-Nadoho/The-Anwer-Protocol) [100/100]
 
--
+The Answer Protocol (TAP) is a collaborative multiplayer text adventure game, inspired by the classic Multi-User Dungeons (MUDs) of the early internet era. It features a persistent virtual world where players can connect in real-time to explore interconnected rooms, interact with characters, complete quests, and battle enemies together. Behind the scenes, the project showcases robust network programming through a custom-built server that manages the shared world and communicates seamlessly with players. Users can experience the adventure through two distinct interfaces: a nostalgic command-line client or a more accessible graphical application. Ultimately, TAP demonstrates the ability to design and build a complex, real-time multiplayer system from the ground up, blending technical architecture with engaging game design.
 
-### 🟡 Agent Smith [???/100]
+### 🔵 [Agent Smith](https://github.com/Thomas-Baricault/42--Agent-Smith) [100/100]
 
--
+Agent Smith is an agentic framework that autonomously solves coding challenges. Given a task, it reasons about the problem, writes Python code, executes it in a sandboxed environment, observes the result, and iterates until it finds (or fails to find) a solution — a `Thought -> Code -> Observation` loop driven entirely by executable Python rather than static JSON tool calls.
+
+The framework is applied to two benchmarks:
+- **MBPP** (Mostly Basic Python Problems): self-contained algorithmic exercises.
+- **SWE-bench**: real bug fixes in real open-source Python repositories, run inside Docker containers.
+
+Beyond making the agent capable, the core challenge of this project is making it **safe, controlled, reproducible, and measurable**: every execution happens inside a custom sandbox (no external sandboxing library, only the standard library), every LLM call and every tool call is logged, and the pipeline is benchmarked across multiple free-tier LLM providers.
 
 ## 🎯Circle 6
 
-### 🟡 42_Collaborative_resume [???/100]
+### 🟡 [ft_resume](https://github.com/spacotto/ft_resume) [???/100]
 
 -
 
-### 🟡 ft_transcendence [???/100]
+### 🟡 [ft_transcendence](https://github.com/spacotto/ft_transcendence) [???/100]
 
 -
