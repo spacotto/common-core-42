@@ -82,7 +82,7 @@ Beyond making the agent capable, the core challenge of this project is making it
 
 ## 🎯Circle 6
 
-### 🔵 [ft_resume](https://github.com/spacotto/ft_resume) [125/100]
+### 🔵 [ft_resume](https://www.linkedin.com/in/silvia-pacotto/) [125/100]
 
 -
 
