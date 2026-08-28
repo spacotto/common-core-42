@@ -62,7 +62,7 @@ RAG against the machine is a software engineering project that builds a Retrieva
 
 ## 🎯Circle 5
 
-### 🟡 [Inception](https://github.com/spacotto/Inception) [???/100]
+### 🔵 [Inception](https://github.com/spacotto/Inception) [100/100]
 
 Inception is a System Administration project that introduces you to Docker and containerization. The main goal is to set up a small web infrastructure using Docker Compose on a virtual machine(VM). Instead of installing all software directly on the machine, three separate containers are configured, each running a specific service: a web server (NGINX), a database (MariaDB), and a content management system (WordPress). This modular approach ensures that each service is isolated, making the system more secure, easier to manage, and scalable. By building the system from the ground up, the project teaches you how to create custom Docker images, configure secure networking between containers, and properly manage persistent data storage.
 
@@ -82,7 +82,7 @@ Beyond making the agent capable, the core challenge of this project is making it
 
 ## 🎯Circle 6
 
-### 🟡 [ft_resume](https://github.com/spacotto/ft_resume) [???/100]
+### 🔵 [ft_resume](https://github.com/spacotto/ft_resume) [125/100]
 
 -
 
